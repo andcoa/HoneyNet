@@ -39,7 +39,7 @@ Deployed the Virtual Network in the Resource Group created above.
 
 ![image](https://github.com/user-attachments/assets/82113ce4-6ab2-4059-b0b5-70b155f821fd)
 
-Created a Windows VM which will act as a honeypot. Automatically assigned a public IP address, a network security group and network interface.
+Created a Windows VM which will act as a honeypot.
 
 ![image](https://github.com/user-attachments/assets/97f0bd63-0e99-4b0b-9040-ad055cc83d64)
 
