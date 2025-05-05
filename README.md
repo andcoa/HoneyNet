@@ -31,6 +31,6 @@ Signed up for Microsoft Azure.
 
 ![image](https://github.com/user-attachments/assets/41a40919-e52e-49ef-aaf2-6543d600e2c3)
 
-Created the Resource Group which the target VM will be set up in.
+Created the Resource Group in which the target VM will be set up in.
 
 ![image](https://github.com/user-attachments/assets/2aab083a-a6bc-40c2-8cb7-0f33e28e70f3)
