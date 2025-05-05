@@ -39,4 +39,9 @@ Deployed the Virtual Network in the Resource Group created above.
 
 ![image](https://github.com/user-attachments/assets/82113ce4-6ab2-4059-b0b5-70b155f821fd)
 
+Created a Windows VM Honeypot.
+
+![image](https://github.com/user-attachments/assets/60b914f4-5de3-4e95-a562-55ea59c35d9b)
+
+
 
