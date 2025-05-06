@@ -77,5 +77,12 @@ Tried to log in the Windows 10 VM by entering wrong credentials to generate logs
 
 ![image](https://github.com/user-attachments/assets/e3e9b448-1e05-4c41-be51-05bd72511221)
 
-In Event Viewer on the Windows 10 VM, searched for Event ID 4625 (failed logon attempt)
+In Event Viewer on the Windows 10 VM, filtered for Event ID 4625 (failed logon attempt)
+
+![image](https://github.com/user-attachments/assets/ce8b2c37-b271-4cba-b319-78c2cd72b4cf)
+
+Started seeing failed login attempts from unknown attackers within 10 minutes of changing the VM's firewall rules.
+
+![image](https://github.com/user-attachments/assets/e3063857-91d2-45ad-a877-d7f1fd506664)
+
 
