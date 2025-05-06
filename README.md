@@ -91,7 +91,7 @@ Configured an Azure log repository to forward the Windows 10 VM's logs. The Log 
 
 ![image](https://github.com/user-attachments/assets/e2058776-1ebe-4e96-bd5b-9b8d7a430f5f)
 
-Created a Microsoft Sentinel instance by adding the Log Analytics Workspace to it.
+Created a Microsoft Sentinel instance by adding the Log Analytics Workspace to it. Sentinel will be used as a SIEM to see the logs collected from the Windows 10 VM.
 
 ![image](https://github.com/user-attachments/assets/bb688e11-40d5-4a35-9556-5d0b271f5fbc)
 
