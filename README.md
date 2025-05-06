@@ -85,4 +85,14 @@ Started seeing failed login attempts from unknown attackers within 10 minutes of
 
 ![image](https://github.com/user-attachments/assets/e3063857-91d2-45ad-a877-d7f1fd506664)
 
+Configured an Azure log repository to forward the Windows 10 VM's logs. The Log Analytics workspace was assigned to the Resource Group created earlier on the East US 2 region (same as the target VM).
+
+![image](https://github.com/user-attachments/assets/1925e2fd-b895-401c-be4b-65c7747e1bdc)
+
+![image](https://github.com/user-attachments/assets/e2058776-1ebe-4e96-bd5b-9b8d7a430f5f)
+
+Created a Microsoft Sentinel instance by adding the Log Analytics Workspace to it.
+
+![image](https://github.com/user-attachments/assets/bb688e11-40d5-4a35-9556-5d0b271f5fbc)
+
 
