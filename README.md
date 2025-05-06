@@ -67,3 +67,15 @@ Disabled the internal firewall on the Windows 10 VM.
 
 ![image](https://github.com/user-attachments/assets/04e96c56-9b20-4080-8810-45f97978e971)
 
+Successfully pinged the Windows 10 VM from a real machine.
+
+![image](https://github.com/user-attachments/assets/19f78e7f-0272-4fcd-9a65-58e2f5ace101)
+
+Tried to log in the Windows 10 VM by entering wrong credentials to generate logs.
+
+![image](https://github.com/user-attachments/assets/e0199e13-1a44-4fc9-907f-13c6b9d95f2e)
+
+![image](https://github.com/user-attachments/assets/e3e9b448-1e05-4c41-be51-05bd72511221)
+
+In Event Viewer on the Windows 10 VM, searched for Event ID 4625 (failed logon attempt)
+
