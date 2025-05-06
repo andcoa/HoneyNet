@@ -155,5 +155,10 @@ Successfully created the geoip Watchlist.
 
 ![image](https://github.com/user-attachments/assets/6b7eb527-f8a1-4bfd-8a9b-a80aac28cfe1)
 
+The Watchlist can now be queried for with KQL in the Log Analytics Workspace.
 
+![image](https://github.com/user-attachments/assets/9349d991-453c-4f0a-8857-fd4cd311fed3)
 
+Wrote a query to display the location of one of the attackers. The query filters for the IP of the attacker and the EventID 4625 (failed logon attempt), displaying all data under the fields of my chosing.
+
+![image](https://github.com/user-attachments/assets/4add7836-6ac2-4d54-8a74-fa08a6199843)
