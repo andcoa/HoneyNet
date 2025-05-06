@@ -108,3 +108,18 @@ Installed Windows Security Events in Sentinel.
 Configured Windows Security Events to create a connection between the Log Analytics Workspace and the Windows 10 VM.
 
 ![image](https://github.com/user-attachments/assets/1f136c6e-43ea-4175-83a1-54e9295a6a6e)
+
+Created a data collection rule to forward logs from the Windows 10 VM to the Log Analytics Workspace.
+
+![image](https://github.com/user-attachments/assets/b40bb919-cc58-4d6d-8fca-544c35245194)
+
+![image](https://github.com/user-attachments/assets/cdce691d-69d2-45e8-90c2-62ea34835e7e)
+
+![image](https://github.com/user-attachments/assets/0da40771-59a5-4e08-851f-3b51b3dfb111)
+
+![image](https://github.com/user-attachments/assets/0f02c423-7882-46d5-a0e4-647cfacbfb9d)
+
+The connector was successfully added to the VM.
+
+![image](https://github.com/user-attachments/assets/528832e1-a405-485c-8a14-d2b36d4aed4c)
+
