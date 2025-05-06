@@ -179,15 +179,9 @@ Saved the Attack Map under the Resource Group created earlier.
 
 ![image](https://github.com/user-attachments/assets/317e6770-0f61-4d1e-8321-580dbc92bfd3)
 
-The following Attack Map was created:
+The following Attack Map was created depicting the country which the attacks originated from:
 
 ![image](https://github.com/user-attachments/assets/e1590d86-0632-44c3-8773-8be9aa0158bc)
-
-The map is also highly customizable:
-
-![image](https://github.com/user-attachments/assets/907e129c-857e-4836-9c31-904c1e5d47a8)
-
-![image](https://github.com/user-attachments/assets/763e0634-623c-4b15-9826-8bee80e2c34f)
 
 
 
