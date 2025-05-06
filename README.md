@@ -47,5 +47,6 @@ Opening up the VM's firewall by adding an inbound security rule allowing all inb
 
 ![image](https://github.com/user-attachments/assets/c847551c-9100-441a-b6b5-4c316775fd45)
 
-![image](https://github.com/user-attachments/assets/09616dc6-35e5-4f36-a88c-61a22fd4bc76)
+![image](https://github.com/user-attachments/assets/899a2fa9-b212-4144-99de-595615731623)
+
 
