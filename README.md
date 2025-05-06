@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/358f2fb7-3936-4c01-aaeb-b6b5f90d743d)# Azure HoneyNet
+# Azure HoneyNet
 
 ## Objective
 
