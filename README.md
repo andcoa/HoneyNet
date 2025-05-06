@@ -43,6 +43,9 @@ Created a Windows VM which will act as a honeypot.
 
 ![image](https://github.com/user-attachments/assets/97f0bd63-0e99-4b0b-9040-ad055cc83d64)
 
+Opening up the VM's firewall by adding an inbound security rule allowing all inbound connections, not just RDP.
 
+![image](https://github.com/user-attachments/assets/c847551c-9100-441a-b6b5-4c316775fd45)
 
+![image](https://github.com/user-attachments/assets/09616dc6-35e5-4f36-a88c-61a22fd4bc76)
 
