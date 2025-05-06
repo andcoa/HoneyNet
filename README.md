@@ -162,3 +162,29 @@ The Watchlist can now be queried for with KQL in the Log Analytics Workspace.
 Wrote a query to display the location of one of the attackers. The query filters for the IP of the attacker and the EventID 4625 (failed logon attempt), displaying all data under the fields of my chosing.
 
 ![image](https://github.com/user-attachments/assets/4add7836-6ac2-4d54-8a74-fa08a6199843)
+
+Created the Attack Map in a Sentiel Workbook.
+
+![image](https://github.com/user-attachments/assets/60c0e9dc-37e2-4941-8892-a4408bec078e)
+
+![image](https://github.com/user-attachments/assets/cf6a8bc0-e146-4280-93bb-81619cf2b63d)
+
+Used the following JSON script to set up the Workbook.
+
+![image](https://github.com/user-attachments/assets/1932e14d-2bec-4443-99dc-9cb2b3637ebd)
+
+![image](https://github.com/user-attachments/assets/30bc05f8-cec7-4c0f-8fc1-2cc649933e4c)
+
+Saved the Attack Map under the Resource Group created earlier.
+
+![image](https://github.com/user-attachments/assets/317e6770-0f61-4d1e-8321-580dbc92bfd3)
+
+
+The following Attack Map was created:
+
+![image](https://github.com/user-attachments/assets/51072a90-f0c2-4998-ba31-4b22440a2a70)
+
+
+
+
+
