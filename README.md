@@ -149,7 +149,7 @@ Uploaded the geolocation file.
 
 ![image](https://github.com/user-attachments/assets/3cc068d7-de00-48ee-b447-9ebf9f84e6a5)
 
-Successfully created the geoip watchlist.
+Successfully created the geoip Watchlist.
 
 ![image](https://github.com/user-attachments/assets/41a2de54-1f86-41f0-97cf-a1a305677f86)
 
