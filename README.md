@@ -97,6 +97,10 @@ Created a Microsoft Sentinel instance by adding the Log Analytics Workspace to i
 
 ![image](https://github.com/user-attachments/assets/1cac2688-61d9-4137-9182-b0c565c166ed)
 
-
 ![image](https://github.com/user-attachments/assets/bb34ad9f-6987-4a4c-bafd-35123c26af87)
 
+Installed and configured Windows Security Events in Sentinel which creates a connection between the Log Analytics Workspace and the Windows 10 VM.
+
+![image](https://github.com/user-attachments/assets/fce5eac5-c633-4bc7-a098-22c062fc6ebd)
+
+![image](https://github.com/user-attachments/assets/5fec188e-1438-4b05-8ea6-cc6d993690e2)
