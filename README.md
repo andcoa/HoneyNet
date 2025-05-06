@@ -127,4 +127,7 @@ Accessed the collected logs by going in the Log Analytics Workspace and query fo
 
 ![image](https://github.com/user-attachments/assets/9af0f780-6857-49fa-927f-906090fa1bf5)
 
+Used KQL to create query that sorts logs by the account "Administrator" and only shows the fields TimeGenerated, Account, Computer, EventID, Activity and IpAddress
+
+![image](https://github.com/user-attachments/assets/31b00a42-f7cb-404f-b2a5-47e476bc5d97)
 
