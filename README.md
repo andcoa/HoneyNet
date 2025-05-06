@@ -1,4 +1,4 @@
-# Azure HoneyNet
+![image](https://github.com/user-attachments/assets/358f2fb7-3936-4c01-aaeb-b6b5f90d743d)# Azure HoneyNet
 
 ## Objective
 
@@ -99,8 +99,12 @@ Created a Microsoft Sentinel instance by adding the Log Analytics Workspace to i
 
 ![image](https://github.com/user-attachments/assets/bb34ad9f-6987-4a4c-bafd-35123c26af87)
 
-Installed and configured Windows Security Events in Sentinel which creates a connection between the Log Analytics Workspace and the Windows 10 VM.
+Installed Windows Security Events in Sentinel.
 
 ![image](https://github.com/user-attachments/assets/fce5eac5-c633-4bc7-a098-22c062fc6ebd)
 
 ![image](https://github.com/user-attachments/assets/5fec188e-1438-4b05-8ea6-cc6d993690e2)
+
+Configured Windows Security Events to create a connection between the Log Analytics Workspace and the Windows 10 VM.
+
+![image](https://github.com/user-attachments/assets/1f136c6e-43ea-4175-83a1-54e9295a6a6e)
