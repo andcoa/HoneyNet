@@ -145,6 +145,15 @@ In Sentinel, created a new Watchlist:
 
 ![image](https://github.com/user-attachments/assets/344a5505-4085-46e4-a46f-22cf317106ca)
 
-![image](https://github.com/user-attachments/assets/5e07486d-c9f8-4e15-98c4-927cb491eadb)
+Uploaded the geolocation file.
+
+![image](https://github.com/user-attachments/assets/3cc068d7-de00-48ee-b447-9ebf9f84e6a5)
+
+Successfully created the geoip watchlist.
+
+![image](https://github.com/user-attachments/assets/41a2de54-1f86-41f0-97cf-a1a305677f86)
+
+![image](https://github.com/user-attachments/assets/d2fa49ee-7fb2-40bc-aaa2-d805d0b66abe)
+
 
 
