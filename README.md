@@ -127,7 +127,24 @@ Accessed the collected logs by going in the Log Analytics Workspace and query fo
 
 ![image](https://github.com/user-attachments/assets/9af0f780-6857-49fa-927f-906090fa1bf5)
 
-Used KQL to create query that sorts logs by the account "Administrator" and only shows the fields TimeGenerated, Account, Computer, EventID, Activity and IpAddress
+Used KQL to create query that sorts logs by the account "ADMINISTRATOR" and only shows the fields TimeGenerated, Account, Computer, EventID, Activity and IpAddress. There are 24 instances of failed logon attempts by attackers on the public internet using the credential "ADMINISTRATOR".
 
 ![image](https://github.com/user-attachments/assets/31b00a42-f7cb-404f-b2a5-47e476bc5d97)
+
+Wrote another KQL query to see the logs collected within the last 5 minutes containing the EventID 4625 (failed logon attempt).
+
+![image](https://github.com/user-attachments/assets/99740969-ff04-489f-bdec-26e3c2a6d0c6)
+
+Used the following list to create a geolocation watchlist in Sentinel:
+
+![image](https://github.com/user-attachments/assets/bfaf48f3-456f-4cc0-9fd2-b3a26c29169c)
+
+In Sentinel, created a new Watchlist:
+
+![image](https://github.com/user-attachments/assets/2df226a3-3a15-4da3-a0a5-b41fcbf28593)
+
+![image](https://github.com/user-attachments/assets/344a5505-4085-46e4-a46f-22cf317106ca)
+
+![image](https://github.com/user-attachments/assets/5e07486d-c9f8-4e15-98c4-927cb491eadb)
+
 
