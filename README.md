@@ -153,7 +153,7 @@ Successfully created the geoip watchlist.
 
 ![image](https://github.com/user-attachments/assets/41a2de54-1f86-41f0-97cf-a1a305677f86)
 
-![image](https://github.com/user-attachments/assets/d2fa49ee-7fb2-40bc-aaa2-d805d0b66abe)
+![image](https://github.com/user-attachments/assets/6b7eb527-f8a1-4bfd-8a9b-a80aac28cfe1)
 
 
 
