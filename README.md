@@ -49,4 +49,21 @@ Opening up the VM's firewall by adding an inbound security rule allowing all inb
 
 ![image](https://github.com/user-attachments/assets/899a2fa9-b212-4144-99de-595615731623)
 
+Logged in the Windows 10 VM by pasting in the public IP address provided by Azure.
+
+![image](https://github.com/user-attachments/assets/05da2164-28d3-4239-9298-4c83198fe763)
+
+![image](https://github.com/user-attachments/assets/1ffb48f0-e85c-484f-aba9-aab0094d5b26)
+
+Disabled the internal firewall on the Windows 10 VM.
+
+![image](https://github.com/user-attachments/assets/aad78b7c-8045-431a-be0c-016424382978)
+
+![image](https://github.com/user-attachments/assets/300ebce5-ffa4-4316-bde7-4c28f3cc61f4)
+
+![image](https://github.com/user-attachments/assets/d2cedd94-7bb2-4464-9c3f-e41bdc855d5c)
+
+![image](https://github.com/user-attachments/assets/3656a86a-c902-4204-bffb-a14c84d648f2)
+
+![image](https://github.com/user-attachments/assets/04e96c56-9b20-4080-8810-45f97978e971)
 
