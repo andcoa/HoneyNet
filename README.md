@@ -123,3 +123,8 @@ The connector was successfully added to the VM.
 
 ![image](https://github.com/user-attachments/assets/528832e1-a405-485c-8a14-d2b36d4aed4c)
 
+Accessed the collected logs by going in the Log Analytics Workspace and query for "SecurityEvent".
+
+![image](https://github.com/user-attachments/assets/9af0f780-6857-49fa-927f-906090fa1bf5)
+
+
