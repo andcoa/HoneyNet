@@ -181,7 +181,7 @@ Saved the Attack Map under the Resource Group created earlier.
 
 The following Attack Map was created:
 
-![image](https://github.com/user-attachments/assets/51072a90-f0c2-4998-ba31-4b22440a2a70)
+![image](https://github.com/user-attachments/assets/e1590d86-0632-44c3-8773-8be9aa0158bc)
 
 The map is also highly customizable:
 
