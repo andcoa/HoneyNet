@@ -95,4 +95,8 @@ Created a Microsoft Sentinel instance by adding the Log Analytics Workspace to i
 
 ![image](https://github.com/user-attachments/assets/bb688e11-40d5-4a35-9556-5d0b271f5fbc)
 
+![image](https://github.com/user-attachments/assets/1cac2688-61d9-4137-9182-b0c565c166ed)
+
+
+![image](https://github.com/user-attachments/assets/bb34ad9f-6987-4a4c-bafd-35123c26af87)
 
