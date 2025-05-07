@@ -1,4 +1,4 @@
-# Microsoft Azure SOC HoneyNet
+# Microsoft Azure SOC + HoneyNet
 
 ## Objective
 
