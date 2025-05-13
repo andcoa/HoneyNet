@@ -6,7 +6,7 @@ Deploy a publicly exposed Windows VM in Azure to act as a honeynet, collect atta
 
 ## Skills Learned
 
-- Cloud Network Configuration: Built a virtual network, subnet, and fully open security group to simulate an internet-facing target.
+- **Cloud Network Configuration**: Built a virtual network, subnet, and fully open security group to simulate an internet-facing target.
 - Honeypot Design on Azure: Intentionally exposed a VM to the public to attract brute-force attacks and log malicious activity.
 - Log Collection & Forwarding: Installed and configured the Azure Monitoring Agent to forward Windows security events to Log Analytics.
 - Sentinel SIEM Dashboards: Connected Sentinel to the Log Analytics workspace and built custom dashboards for visualizing failed logins and attacker geolocation.
